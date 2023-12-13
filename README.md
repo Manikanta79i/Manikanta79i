@@ -2,7 +2,7 @@
 - 👀 I’m interested in .Full Stack Development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Web Developement
-- 📫 How to reach me www.mrmaniu.com
+- 📫 How to reach me www.mrmaniub.com
 
 <!---
 Manikanta79i/Manikanta79i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
