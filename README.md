@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manikanta79i
-- 👀 I’m interested in .Full Stack Development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Web Developement
+- 👀 I’m interested in .web Development Projects
+- 🌱 I’m currently Full Stack Developer
+- 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me www.mrmaniub.com
 
 <!---
